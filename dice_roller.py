@@ -9,7 +9,7 @@ for i in range(0,dice_rolls):
 print(f"you have rolled a total of {dice_sum}")
 
 def main():
-  roll =random. randint(1,6)
+  rol =random. randint(1,6)
 
 if __name__== "__main__":
   main()
